@@ -22,3 +22,5 @@ $("p").mouseHover(function(){
   $("#div2").fadeTo("slow", 0.4);
   $("#div3").fadeTo("slow", 0.7);
 });
+
+//Adding animation to page

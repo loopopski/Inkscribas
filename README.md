@@ -1,3 +1,3 @@
 # Inkscribas
 
-💻 Fullstack development 🔧
+# 💻 🔧 Fullstack development 
